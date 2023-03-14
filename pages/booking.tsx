@@ -10,6 +10,7 @@ const Booking: NextPage = () => {
    <div>
     <h1>Booking Page {bookNum} </h1>
     <div className="text-red-500 text-3xl font-bold underline">Hello</div>
+    <div className="text-red-500 text-3xl font-bold underline">Welcome</div>
    </div>
   )
 }
